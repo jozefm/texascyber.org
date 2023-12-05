@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Texas Cyber</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Texas Cyber Summit</description>
+	<lastBuildDate>Sat, 31 Dec 2022 08:28:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>BRIEFING TRACKS</title>
+		<link>/tracks/</link>
+		
+		<dc:creator><![CDATA[fletch.one]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 17:44:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://texascyber.com/?p=10113</guid>
+
+					<description><![CDATA[<p>AI, ML &#38; DATA SCIENCE 370x370_Jorge-Orchilles rt AI, ML &#38; DATA SCIENCE The AI, ML, and Data Science track covers the curriculum in a way that provides value for security professionals. Topics in this track range from implementing and applying AI for better defenses, detection and attacking systems. Submissions for the track should show, educate [&#8230;]</p>
+<p>The post <a href="/tracks/">BRIEFING TRACKS</a> appeared first on <a href="/">Texas Cyber</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="10113" class="elementor elementor-10113" data-elementor-post-type="post">
+									<section class="has_ae_slider elementor-section elementor-top-section elementor-element elementor-element-7d6e7975 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="7d6e7975" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21438b1b ae-bg-gallery-type-default" data-id="21438b1b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c501f86 elementor-widget elementor-widget-heading" data-id="c501f86" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 14-09-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">AI, ML & DATA SCIENCE</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-90fd140 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="90fd140" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c03f6ec ae-bg-gallery-type-default" data-id="c03f6ec" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a832e32 ae-bg-gallery-type-default" data-id="a832e32" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4a3bc4a elementor-widget elementor-widget-text-editor" data-id="4a3bc4a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 14-09-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>AI, ML &amp; DATA SCIENCE</p><p>The AI, ML, and Data Science track covers the curriculum in a way that provides value for security professionals. Topics in this track range from implementing and applying AI for better defenses, detection and attacking systems. Submissions for the track should show, educate and inform attendees on the functionality and key role AI/ML plays in everyday application. Regardless of the topic, the content for the track should have a heavy focus on applied concepts that attendees can use after the conference is over.</p><p> </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-a354d6e elementor-widget elementor-widget-heading" data-id="a354d6e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">APPLICATION SECURITY</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-65fc288 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="65fc288" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-65d4f1d ae-bg-gallery-type-default" data-id="65d4f1d" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9453d28 ae-bg-gallery-type-default" data-id="9453d28" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3cf5cdb elementor-widget elementor-widget-text-editor" data-id="3cf5cdb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div class="col-2"><div class="sponsor">APPLICATION SECURITY</div></div><div class="col-10"><p>Anywhere developers are creating or shipping code, Security should come first. Everything from web application security to the Security Development Lifecycle (SDLC) to Web3 decentralized applications lives in this track. Good topics include broad-based, novel attacks against web technologies, programming languages, or ecosystems, especially when accompanied by offensive and/or defensive tooling. We are also interested in objective, data-driven research or case studies around secure development practices (train, develop, deploy, run, scale, respond) with actionable recommendations attendees can apply to improve their product security.</p></div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-4e9923f1 elementor-widget elementor-widget-text-editor" data-id="4e9923f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-9fe6ea3 elementor-widget elementor-widget-heading" data-id="9fe6ea3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">CLOUD AND PLATFORM SECURITY</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-976eeb1 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="976eeb1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3555920 ae-bg-gallery-type-default" data-id="3555920" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ef190c9 ae-bg-gallery-type-default" data-id="ef190c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3e3a23e elementor-widget elementor-widget-text-editor" data-id="3e3a23e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>CLOUD &amp; PLATFORM SECURITY</p><p>Focuses on security issues affecting the full system platform stack from (firmware, hypervisor, and operating system) of computing platforms powering everything from embedded systems to modern desktops to the cloud. The track focuses on topics such as: software attacks against modern client and server operating systems; hypervisor and firmware vulnerabilities; security co-processor and secure enclave weaknesses in modern CPU and System-on-Chip architectures; microarchitectural and hardware-enabled attacks against CPU, memory, or other subsystems; and at-scale supply chain security issues such as build system compromises or exploitation of pervasive open source vulnerabilities.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-f9aafc1 elementor-widget elementor-widget-heading" data-id="f9aafc1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">CRYPTOGRAPHY & BLOCKCHAIN</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-268da98 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="268da98" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d417129 ae-bg-gallery-type-default" data-id="d417129" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eabdde0 ae-bg-gallery-type-default" data-id="eabdde0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c3d20e6 elementor-widget elementor-widget-text-editor" data-id="c3d20e6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>CRYPTOGRAPHY &amp; BLOCKCHAIN</p><p>This track focuses on cryptography and Block Chain lets discuss practical, real-world advances in cryptography informed by an attacker&#8217;s sensibility. A Black Hat Cryptography Track talk will almost always be backed up with running code. We prize offensive cryptography and cryptanalysis but will host defensive and research cryptography when rooted in a context of real-world attacks. We&#8217;re an especially good place to send new vulnerabilities in cryptographic protocols like TLS, cryptographic hardware like HSMs and smart cards, and cryptographic primitives like SHA-1.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-685a155 elementor-widget elementor-widget-heading" data-id="685a155" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">DATA FORENSICS &amp; INCIDENT RESPONSE</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-af65f3a elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="af65f3a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9125dfb ae-bg-gallery-type-default" data-id="9125dfb" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-51d6653 ae-bg-gallery-type-default" data-id="51d6653" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ce9e816 elementor-widget elementor-widget-text-editor" data-id="ce9e816" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>DATA FORENSICS AND INCIDENT RESPONSE</p><p>The DFIR track will consist of techniques and capabilities used to assist defenders in responding to a variety of security incidents, this includes on-premise, hybrid, and cloud environments. These topics may include, but aren&#8217;t limited to, identification of compromised systems, digital evidence collection, network, host, malware analysis, threat intelligence, and threat hunting. Focus should be on techniques and procedures that can help defenders understand how an attack unfolded, if and when a breach occurred, and how it can be prevented in the future.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-a6d8071 elementor-widget elementor-widget-heading" data-id="a6d8071" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">DEFENSE | BLUE TEAM</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-0412c9d elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="0412c9d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-61f81f3 ae-bg-gallery-type-default" data-id="61f81f3" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c44d955 ae-bg-gallery-type-default" data-id="c44d955" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-362bc3f elementor-widget elementor-widget-text-editor" data-id="362bc3f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>DEFENSES | BLUE TEAM</p><p>As cybersecurity encompasses everything in our daily lives,  in the new world of a remote workforce sharing systems with their young distance learners, across perimeter-less and zero trust networks. How can we tip the balance to favor the Blue Team in their daily battle against chaos, data loss, or even lives lost? What new technologies should we look at, before attackers do? What are new approaches to consider, while keeping up with this ever-changing perimeter and the rapid introduction of new attack surfaces?</p><p>This track welcomes talks on practical, effective, and scalable security isolation technologies and exploit mitigations, at the compiler or platform level, as well as tools and techniques offering enhanced visibility, management, visualization, and data processing of any part of the kill chain, with the goal of disrupting and diminishing attacker capabilities and toolsets.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-07f09ad elementor-widget elementor-widget-heading" data-id="07f09ad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ENTERPRISE AND AGENCY SECURITY</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-20912ee elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="20912ee" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-340af98 ae-bg-gallery-type-default" data-id="340af98" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-98cf0fa ae-bg-gallery-type-default" data-id="98cf0fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4077a2f elementor-widget elementor-widget-text-editor" data-id="4077a2f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>AGENCY AND ENTERPRISE SECURITY</p><p>Enterprise and Agency Security track covers research into the security of IT infrastructure and endpoint fleets, and includes device management and MDMs, directory and SSO identity services, orchestration and patch management, email, and storage networks. If it&#8217;s new research targeting systems companies run to support team members, rather than the applications they provide or the operating systems themselves, the Enterprise Security track is probably a natural home for it.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-8663a49 elementor-widget elementor-widget-heading" data-id="8663a49" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">EXPLOIT DEVELOPMENT | DARK ARTS</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-d1cae61 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="d1cae61" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dfc6b23 ae-bg-gallery-type-default" data-id="dfc6b23" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22569b0 ae-bg-gallery-type-default" data-id="22569b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24b0607 elementor-widget elementor-widget-text-editor" data-id="24b0607" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>EXPLOIT DEVELOPMENT</p><p>Exploit Development submissions are welcome across a wide array of technologies and targets from cloud to mobile devices. We are particularly interested in innovative and novel approaches that cover new exploit delivery mechanisms, code execution techniques, focus on new targets, or defeat existing exploit mitigations such as CET or XFG. Submissions shouldn&#8217;t be constrained to memory safety issues, but these often resonate well with our audience. Bypasses for next generation hardware architectures such as CHERI, or virtualization-based security mechanisms, are highly regarded.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-e7d8dab elementor-widget elementor-widget-heading" data-id="e7d8dab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MALWARE</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-d935843 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="d935843" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8b9f53a ae-bg-gallery-type-default" data-id="8b9f53a" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0fc64c5 ae-bg-gallery-type-default" data-id="0fc64c5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5dd8f8f elementor-widget elementor-widget-text-editor" data-id="5dd8f8f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>MALWARE | RANSOMWARE</p><p>The Malware and RANSOMWARE track focuses on both the defensive and offensive aspects of malware development. The defensive malware talks are centered around current malware; analysis, anti-analysis techniques, detection, remediation, and technical discussions on bypasses or broken functionality within anti-malware tools. The offensive malware talks are centered around; malware development, novel execution techniques, and obfuscation. We are most interested in talks that detail prevailing malicious attacks, recent attacks with high impact, malware targeting newer platforms.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-da81b97 elementor-widget elementor-widget-heading" data-id="da81b97" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MOBILE</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-e3bc2f9 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="e3bc2f9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-333a5f5 ae-bg-gallery-type-default" data-id="333a5f5" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9fa4e87 ae-bg-gallery-type-default" data-id="9fa4e87" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ce0d65 elementor-widget elementor-widget-text-editor" data-id="3ce0d65" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>MOBILE</p><p>The mobile track encompasses everything mobile, including all layers of phones (OS, baseband, hardware, software, apps), tablets, mobile infrastructure, mobile device management, telecommunications protocols, GPS, etc. Talks in this track should cover a security feature, novel technique, new concept or research unique to the mobile space. Submissions where mobile is only one of many use cases, are generally not suitable for this track</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-19a49fc elementor-widget elementor-widget-heading" data-id="19a49fc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">NETWORK SECURITY</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-a52582c elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="a52582c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ec9cf5c ae-bg-gallery-type-default" data-id="ec9cf5c" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-682940c ae-bg-gallery-type-default" data-id="682940c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ac842eb elementor-widget elementor-widget-text-editor" data-id="ac842eb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>NETWORK SECURITY</p><p>Focused on network defense issues related to protecting users or assets. Traditionally, this includes the vast array of NIDS, HIDS, IPS, SEIM, Firewalls, VPNs, etc., as well as the hardware components, like routers, switches, Wi-Fi and so on. Cloud computing networks and more exotic networks, like CAN Bus, ad-hoc networking and so on are included. We are looking specifically for novel means of deployment, detection, correlation, or protection of attacks that is both unique and ideally practical for use in protecting networks. Attendees of Network track talks should walk away with ideas on how to defend themselves and a better understanding of the threat landscape with ideas on areas to research.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-ea44460 elementor-widget elementor-widget-heading" data-id="ea44460" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">REVERSE ENGINEERING</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-875367d elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="875367d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cdcdbbc ae-bg-gallery-type-default" data-id="cdcdbbc" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-38693cd ae-bg-gallery-type-default" data-id="38693cd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-31bab1a elementor-widget elementor-widget-text-editor" data-id="31bab1a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>REVERSE ENGINEERING</p><div class="col-2"><div class="sponsor"><p>Reverse engineering is the process of extracting the knowledge or design blueprints from anything man-made and reproducing it or reproducing anything based on the extracted information briefings in the Reverse Engineering Track may include subjects such as vulnerability discovery, data visualization, advanced exploitation techniques, bypassing security and software protections, and reverse engineering of hardware, software, and protocols.</p></div></div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-05de0b9 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="05de0b9" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 14-09-2023 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a57d4df elementor-widget elementor-widget-heading" data-id="a57d4df" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">RED TEAM | OFFENSIVE</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-8177057 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="8177057" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-026c5bf ae-bg-gallery-type-default" data-id="026c5bf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4f39b52 elementor-widget elementor-widget-gallery" data-id="4f39b52" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;justified&quot;,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;overlay_title&quot;:&quot;title&quot;,&quot;overlay_description&quot;:&quot;description&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;ideal_row_height&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:200,&quot;sizes&quot;:[]},&quot;ideal_row_height_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:150,&quot;sizes&quot;:[]},&quot;ideal_row_height_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:150,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.16.0 - 20-09-2023 */
+.elementor-gallery__container{min-height:1px}.elementor-gallery-item{position:relative;overflow:hidden;display:block;text-decoration:none;border:solid var(--image-border-width) var(--image-border-color);border-radius:var(--image-border-radius)}.elementor-gallery-item__content,.elementor-gallery-item__overlay{height:100%;width:100%;position:absolute;top:0;left:0}.elementor-gallery-item__overlay{mix-blend-mode:var(--overlay-mix-blend-mode);transition-duration:var(--overlay-transition-duration);transition-property:mix-blend-mode,transform,opacity,background-color}.elementor-gallery-item__image.e-gallery-image{transition-duration:var(--image-transition-duration);transition-property:filter,transform}.elementor-gallery-item__content{display:flex;flex-direction:column;justify-content:var(--content-justify-content,center);align-items:center;text-align:var(--content-text-align);padding:var(--content-padding)}.elementor-gallery-item__content>div{transition-duration:var(--content-transition-duration)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(2){transition-delay:calc(var(--content-transition-delay) / 3)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(3){transition-delay:calc(var(--content-transition-delay) / 3 * 2)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(4){transition-delay:calc(var(--content-transition-delay) / 3 * 3)}.elementor-gallery-item__description{color:var(--description-text-color,#fff);width:100%}.elementor-gallery-item__title{color:var(--title-text-color,#fff);font-weight:700;width:100%}.elementor-gallery__titles-container{display:flex;flex-wrap:wrap;justify-content:var(--titles-container-justify-content,center);margin-bottom:20px}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:before{background-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:before{background-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:before{border-color:var(--galleries-pointer-bg-color-hover);border-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:after{border-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:before{border-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:var(--galleries-pointer-border-width);border-right-width:0;border-top-width:0}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:after{border-left-width:0;border-bottom-width:0;border-right-width:var(--galleries-pointer-border-width);border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:0;border-right-width:0;border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:after{border-left-width:0;border-bottom-width:var(--galleries-pointer-border-width);border-right-width:var(--galleries-pointer-border-width);border-top-width:0}.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:after,.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:before,.elementor-gallery__titles-container .e--pointer-overline .elementor-item:before,.elementor-gallery__titles-container .e--pointer-underline .elementor-item:after{height:var(--galleries-pointer-border-width)}.elementor-gallery-title{--space-between:10px;cursor:pointer;color:#6d7882;font-weight:500;position:relative;padding:7px 14px;transition:all .3s}.elementor-gallery-title--active{color:#495157}.elementor-gallery-title:not(:last-child){margin-right:var(--space-between)}.elementor-gallery-item__title+.elementor-gallery-item__description{margin-top:var(--description-margin-top)}.e-gallery-item.elementor-gallery-item{transition-property:all}.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-bottom,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-left,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-right,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-top,.e-gallery-item:focus .elementor-gallery__item-overlay-bg,.e-gallery-item:focus .elementor-gallery__item-overlay-content,.e-gallery-item:focus .elementor-gallery__item-overlay-content__description,.e-gallery-item:focus .elementor-gallery__item-overlay-content__title,.e-gallery-item:hover .elementor-gallery__item-overlay-bg,.e-gallery-item:hover .elementor-gallery__item-overlay-content,.e-gallery-item:hover .elementor-gallery__item-overlay-content__description,.e-gallery-item:hover .elementor-gallery__item-overlay-content__title{opacity:1}a.elementor-item.elementor-gallery-title{color:var(--galleries-title-color-normal)}a.elementor-item.elementor-gallery-title.elementor-item-active,a.elementor-item.elementor-gallery-title.highlighted,a.elementor-item.elementor-gallery-title:focus,a.elementor-item.elementor-gallery-title:hover{color:var(--galleries-title-color-hover)}a.elementor-item.elementor-gallery-title.elementor-item-active{color:var(--gallery-title-color-active)}.e-con-inner>.elementor-widget-gallery,.e-con>.elementor-widget-gallery{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2022/12/370x370_Jorge-Orchilles.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4f39b52" data-elementor-lightbox-title="370x370_Jorge-Orchilles" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTAyNDMsInVybCI6Imh0dHBzOlwvXC90ZXhhc2N5YmVyLm9yZ1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTJcLzM3MHgzNzBfSm9yZ2UtT3JjaGlsbGVzLmpwZyIsInNsaWRlc2hvdyI6IjRmMzliNTIifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2022/12/370x370_Jorge-Orchilles.jpg" data-width="370" data-height="370" aria-label="" role="img" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		370x370_Jorge-Orchilles								</div>
+												</div>
+									</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/wp-content/uploads/2022/12/rt.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4f39b52" data-elementor-lightbox-title="rt" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTAyNzgsInVybCI6Imh0dHBzOlwvXC90ZXhhc2N5YmVyLm9yZ1wvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTJcL3J0LnBuZyIsInNsaWRlc2hvdyI6IjRmMzliNTIifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/wp-content/uploads/2022/12/rt.png" data-width="256" data-height="256" aria-label="" role="img" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+															<div class="elementor-gallery-item__content">
+														<div class="elementor-gallery-item__title">
+																		rt								</div>
+												</div>
+									</a>
+					</div>
+			</div>
+				</div>
+					</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ba3d36c ae-bg-gallery-type-default" data-id="ba3d36c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f192a3c elementor-widget elementor-widget-text-editor" data-id="f192a3c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>RED TEAM &amp; OFFENSIVE</p><p>Briefings range from introductory topics of Red Teaming to very advanced techniques and tactics. emulating the adversary. Creating their own tools and exploits to compromise and access sensitive systems and information in any way possible, as quietly as possible.</p><p> </p><p><a href="https://events.eventzilla.net/e/texas-cyber-summit-2023-2138571331">Call for Papers &#8211; Here</a></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-1797e54 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1797e54" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d0d91b6 elementor-widget elementor-widget-heading" data-id="d0d91b6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ICS/SCADA/DCS</h2>		</div>
+				</div>
+				<section class="has_ae_slider elementor-section elementor-inner-section elementor-element elementor-element-6775f38 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-id="6775f38" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f44fdd4 ae-bg-gallery-type-default" data-id="f44fdd4" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="has_ae_slider elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-76df323 ae-bg-gallery-type-default" data-id="76df323" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c682820 elementor-widget elementor-widget-text-editor" data-id="c682820" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>OT | ICS | SCADA</p><p>Industrial Control Systems, PLC&#8217;s, Operational Technology Networks, Building Management, Refineries, Power Plants, and Terminals all use OT/ICS Scada Networks and devices.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a href="/tracks/">BRIEFING TRACKS</a> appeared first on <a href="/">Texas Cyber</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
